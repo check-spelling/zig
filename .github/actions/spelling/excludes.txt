@@ -1,0 +1,27 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)package(?:-lock|)\.json$
+(?:^|/)vendor/
+ignore$
+\.avi$
+\.bin$
+\.gz$
+\.ico$
+\.jpe?g$
+\.lock$
+\.map$
+\.min\..
+\.mod$
+\.mp[34]$
+\.png$
+\.wav$
+^deps/
+^lib/
+^\.github/
+^\Q.gitattributes\E$
+^\Qci/srht/index.json\E$
+^\Qsrc/clang_options_data.zig\E$
+^\Qsrc/mingw.zig\E$
+^\Qsrc/musl.zig\E$
+^\Qsrc/wasi_libc.zig\E$

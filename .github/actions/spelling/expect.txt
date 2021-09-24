@@ -455,7 +455,6 @@ cxxabi
 CYa
 cyg
 cygwin
-DASSEMBLER
 dataoff
 datas
 datasize
@@ -463,9 +462,6 @@ dbandstra
 dbg
 dbghelp
 dbuilder
-DCMAKE
-DCOMPILER
-Dconfig
 DConst
 deadbeef
 Debian
@@ -489,7 +485,6 @@ deinitialized
 delims
 dellocations
 demangle
-Denable
 Denorm
 denormal
 dependee
@@ -504,7 +499,6 @@ deserializing
 dest
 developercommunity
 dgram
-DHAVE
 diags
 diaguids
 dibuilder
@@ -523,16 +517,11 @@ divdf
 divsf
 divtf
 divti
-Dlib
-DLIBC
-DLIBCXX
 dll
 dllcrt
 dllmain
 dlltool
 Dlog
-DMODULE
-DNDEBUG
 docgen
 doctype
 DOTASTERISK
@@ -541,25 +530,18 @@ Doublepump
 downcasting
 DOWNLOADSECUREFILE
 Downscale
+downsides
 DPdx
 DPdy
-DPIC
 dpy
 Dref
 Drelease
 drv
-DSHARED
-Dskip
 dso
 dst
-DSTACK
 dsym
-Dtarget
 DTex
-DTOP
 Dtqi
-DTRACY
-DTSAN
 dumpcode
 dwarfstd
 DWARFv
@@ -573,7 +555,6 @@ dynamicbase
 dynamiclib
 dynlib
 dysymtab
-DZIG
 eabi
 eabihf
 EACCES
@@ -757,7 +738,6 @@ fixunstfsi
 fixunstfti
 flagpd
 flagpsl
-floatcast
 floatdidf
 floatditf
 floatop
@@ -805,6 +785,7 @@ fopen
 foreach
 formatv
 FOut
+fpext
 FPGA
 fpic
 fpie
@@ -812,6 +793,7 @@ fprintf
 fprofile
 fpsr
 FPTo
+fptrunc
 fpu
 fputc
 fputs
@@ -900,6 +882,7 @@ gnueabihf
 gnuilp
 gnux
 Godbolt
+gomp
 GOOGLE
 gop
 gopclntab
@@ -1080,11 +1063,8 @@ lbracket
 lbu
 lci
 lcid
-lclang
-lcurses
 LDBL
 LDFLAGS
-ldl
 ldm
 ldmda
 ldmdb
@@ -1093,6 +1073,7 @@ ldmfa
 ldmfd
 ldmia
 ldmib
+ldmingw
 ldnp
 ldp
 ldr
@@ -1107,8 +1088,6 @@ lemire
 len
 LETTERC
 lexer
-lfoo
-lgomp
 lhs
 lhu
 liba
@@ -1150,10 +1129,8 @@ lineno
 linksection
 linux
 listofstructs
-lkernel
 lld
 lldlto
-lldmingw
 llo
 LLONG
 llrint
@@ -1210,15 +1187,12 @@ LPCWSTR
 LPFILETIME
 lppc
 LPSAFEARRAY
-lpthread
 LPVARIANT
 LPVOID
 lrint
 lriscv
-lroot
 lround
 lrp
-lrt
 lsb
 lseek
 LShr
@@ -1235,9 +1209,7 @@ lucidchart
 lui
 Luma
 lup
-lutil
 lval
-lwinpthread
 lws
 lwu
 macos
@@ -1763,6 +1735,7 @@ rint
 riscv
 rlim
 rlimit
+RLS
 rmdir
 rmw
 Roboto
@@ -1914,6 +1887,7 @@ sover
 spam
 sparc
 sparcel
+Sparcle
 sparcv
 SPDX
 spir
@@ -2147,7 +2121,6 @@ TRIPLEARCH
 trunc
 truncf
 truncl
-trunctfhf
 tsan
 tsaware
 tsv
@@ -2317,6 +2290,7 @@ WINDOWSSUPPORT
 Winit
 winmain
 WINNT
+winpthread
 winv
 wip
 Wno

@@ -52,5 +52,14 @@ themes\.googleusercontent\.com/static/fonts/[^/]+/v\d+/[^.]+.
 
  ssh-rsa [-a-zA-Z=;:/0-9+]*
 
+# Compiler flags
+[\t "`]-D(?!EBUG)
+[\t "`]-l
+,-B
+
 # ignore long runs of a single character:
 \b([A-Za-z])\g{-1}{3,}\b
+
+# Tokens
+\bBankwidthINTEL\b
+\baquireDefaultGroup\b

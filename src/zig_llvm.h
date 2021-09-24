@@ -330,7 +330,7 @@ enum ZigLLVM_ArchType {
     ZigLLVM_riscv64,        // RISC-V (64-bit): riscv64
     ZigLLVM_sparc,          // Sparc: sparc
     ZigLLVM_sparcv9,        // Sparcv9: Sparcv9
-    ZigLLVM_sparcel,        // Sparc: (endianness = little). NB: 'Sparcle' is a CPU variant
+    ZigLLVM_sparcel,        // Sparc: (endianness = little). NB: 'Sparcel' is a CPU variant
     ZigLLVM_systemz,        // SystemZ: s390x
     ZigLLVM_tce,            // TCE (http://tce.cs.tut.fi/): tce
     ZigLLVM_tcele,          // TCE little endian (http://tce.cs.tut.fi/): tcele
